@@ -15,7 +15,7 @@ All services are running in a local Kubernetes environment, and dashboards have 
 
 | Grafana Dashboards | Prometheus Targets | Custom Monitoring |
 |--------------------|--------------------|-------------------|
-| ![](observations/dashboards-overview.png) | ![](observations/) | ![](images/votingapp-dashboard.png) |
+| ![](observations/dashboards-overview.png) | ![](observations/target_health.png) | ![](observations/) |
 
 ---
 
