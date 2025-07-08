@@ -10,11 +10,12 @@ All services are running in a local Kubernetes environment, and dashboards have 
 
 ---
 
+
 ## 📸 Screenshots
 
 | Grafana Dashboards | Prometheus Targets | Custom Monitoring |
 |--------------------|--------------------|-------------------|
-| ![](images/grafana-node-dashboard.png) | ![](images/prometheus-targets.png) | ![](images/votingapp-dashboard.png) |
+| ![](observations/dashboards-overview.png) | ![](observations/) | ![](images/votingapp-dashboard.png) |
 
 ---
 
